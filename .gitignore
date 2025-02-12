@@ -1,5 +1,4 @@
 build/
-.vscode/
 docs/doxygen
 doxy/
 doxy2/
@@ -16,3 +15,5 @@ note/
 py_module/ai
 .DS_Store
 scripts/get-pip.py
+config.bat
+node_modules
